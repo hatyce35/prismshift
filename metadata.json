@@ -1,0 +1,6 @@
+{
+  "name": "Neon Escape",
+  "description": "A sleek, relaxing directional neon crystal puzzle game. Tap glowing crystals to slide them out of the board in their indicated trajectory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
